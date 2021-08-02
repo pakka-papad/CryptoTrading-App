@@ -20,10 +20,6 @@ Clicking on any of the listed cryptocurrencies will take the user to a new page 
 
 The user can sign-out by clicking on the profile picture on home page.
 
-![Crypto Trading 1](https://user-images.githubusercontent.com/76241334/127865172-ee74b0de-48bc-4151-b4ce-0fcba47a2146.jpg)
-![Crypto Trading 2](https://user-images.githubusercontent.com/76241334/127865192-e8b42d1b-4f9f-4192-b0cc-7f5c36f24870.jpg)
-![Crypto Trading 3](https://user-images.githubusercontent.com/76241334/127865207-db11f8ff-db8e-44c3-a89b-3a84e854c55b.jpg)
-![Crypto Trading 4](https://user-images.githubusercontent.com/76241334/127865221-ab2f72a2-2d61-48c2-b21a-fee27828e5b8.jpg)
-![Crypto Trading 5](https://user-images.githubusercontent.com/76241334/127865233-d92b2df9-db2c-4670-925a-c147f9e4a70b.jpg)
-![Crypto Trading 6](https://user-images.githubusercontent.com/76241334/127865246-80a5461f-538b-423a-b631-56aa1ba026c7.jpg)
+![Crypto Trading 1](https://user-images.githubusercontent.com/76241334/127865172-ee74b0de-48bc-4151-b4ce-0fcba47a2146.jpg) ![Crypto Trading 2](https://user-images.githubusercontent.com/76241334/127865192-e8b42d1b-4f9f-4192-b0cc-7f5c36f24870.jpg) ![Crypto Trading 3](https://user-images.githubusercontent.com/76241334/127865207-db11f8ff-db8e-44c3-a89b-3a84e854c55b.jpg)
+![Crypto Trading 4](https://user-images.githubusercontent.com/76241334/127865221-ab2f72a2-2d61-48c2-b21a-fee27828e5b8.jpg) ![Crypto Trading 5](https://user-images.githubusercontent.com/76241334/127865233-d92b2df9-db2c-4670-925a-c147f9e4a70b.jpg) ![Crypto Trading 6](https://user-images.githubusercontent.com/76241334/127865246-80a5461f-538b-423a-b631-56aa1ba026c7.jpg)
 
