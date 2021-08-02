@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Crypto Trading</string>
+    <string name="add_cryptocurrencies">ADD CRYPTO</string>
+    <string name="choose_date_range">Choose date range</string>
+    <string name="crypto_trading">Crypto Trading</string>
+    <string name="loading">Loading…</string>
+    <string-array name="cryptocurrency_list">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Cardano</item>
+        <item>Binance Coin</item>
+        <item>Chainlink</item>
+        <item>Uniswap</item>
+        <item>Monero</item>
+        <item>Dogecoin</item>
+        <item>Litecoin</item>
+        <item>Tether</item>
+        <item>Ripple</item>
+        <item>Dash</item>
+        <item>Stellar Lumens</item>
+        <item>Bytecoin</item>
+        <item>Electroneum</item>
+    </string-array>
+
+    <string-array name="currencyList">
+        <item>USD</item>
+        <item>INR</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>JPY</item>
+        <item>CHF</item>
+        <item>AED</item>
+        <item>SGD</item>
+        <item>KRW</item>
+        <item>RUB</item>
+        <item>CNY</item>
+        <item>NZD</item>
+    </string-array>
+
+    <string-array name="profile_options">
+        <item>Sign Out</item>
+    </string-array>
+
+</resources>

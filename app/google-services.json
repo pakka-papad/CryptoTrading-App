@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855234150046",
+    "project_id": "crypto-trading-78501",
+    "storage_bucket": "crypto-trading-78501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855234150046:android:45f510a9a1d5905090c58f",
+        "android_client_info": {
+          "package_name": "com.example.cryptotrading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855234150046-og14k31tnp5b4sngqoj1djifjfstt4mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptotrading",
+            "certificate_hash": "a15616dc40650cc4ae306c50f5d891ca08a310bc"
+          }
+        },
+        {
+          "client_id": "855234150046-m6kug581qve9sb6o81vd6f1rak3304ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdu_Am3lrLf7mUcy1cd-CWO9GJdizQ-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855234150046-m6kug581qve9sb6o81vd6f1rak3304ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
